@@ -1,8 +1,3 @@
-# requirements.txt - Versão Limpa e Correta
-
 streamlit
 pandas
 yfinance
-transformers
-torch
-sentencepiece
